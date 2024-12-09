@@ -24,7 +24,7 @@ This project investigates the impact of viral trends on public engagement with c
 1. Clone this repository.
 2. Install dependencies (`syuzhet`, `tidytext`).
 3. Run `starter_sentcode.R` for data cleaning and sentiment analysis.
-4. Execute `visualization_script.R` to generate plots.
+4. Execute `sentiment_analysis.R` to generate plots.
 
 ##Data
 Soon example datasets will be uploaded.
