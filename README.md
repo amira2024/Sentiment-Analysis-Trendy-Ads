@@ -26,4 +26,5 @@ This project investigates the impact of viral trends on public engagement with c
 3. Run `starter_sentcode.R` for data cleaning and sentiment analysis.
 4. Execute `visualization_script.R` to generate plots.
 
-
+##Data
+Soon example datasets will be uploaded.
